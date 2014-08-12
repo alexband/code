@@ -17,3 +17,5 @@ PATCH_TYPE = {
     "M": "modified",
     "R": "renamed",
 }
+
+DOMAIN = ''
